@@ -7,3 +7,6 @@ rdm
 gk 
 gvk
 ggyl
+
+
+abcdefghijklmnopqrstuvwxyz
